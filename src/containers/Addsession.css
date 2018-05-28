@@ -1,0 +1,20 @@
+@media all and (min-width: 480px) {
+  .Addsession {
+    padding: 60px 0;
+  }
+
+  .Addsession form {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  .content-row {
+    padding: 0 15px;
+    width: 415px;
+    float:left;
+  }
+}
